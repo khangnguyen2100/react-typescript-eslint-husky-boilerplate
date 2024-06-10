@@ -44,7 +44,9 @@
     "prefer-const": "warn",
     "@typescript-eslint/ban-ts-comment": "warn",
     "simple-import-sort/imports": "warn",
-    "simple-import-sort/exports": "warn"
+    "simple-import-sort/exports": "warn",
+    "@typescript-eslint/no-unused-vars": "warn",
+    "react/prop-types": "off"
   },
   "overrides": [
     // override "simple-import-sort" config
