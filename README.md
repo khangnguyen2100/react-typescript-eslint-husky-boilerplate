@@ -1,4 +1,4 @@
-# Getting Started with React + Typescript + ESLint + Prettier + Husky + Lint-staged Boilerplate
+# Getting Started with React + Typescript + ESLint + Prettier and Pre-commit hook Boilerplate
 
 Yarn is used on this project, so I suggest you use yarn.
 You can install yarn as globally with: `npm install --global yarn`
