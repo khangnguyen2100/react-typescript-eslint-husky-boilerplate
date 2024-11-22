@@ -24,7 +24,7 @@
         "useTabs": false,
         "printWidth": 80,
         "jsxSingleQuote": true,
-        "endOfLine": "crlf",
+        "endOfLine": "lf",
         "bracketSpacing": true,
         "proseWrap": "preserve",
         "bracketSameLine": false
